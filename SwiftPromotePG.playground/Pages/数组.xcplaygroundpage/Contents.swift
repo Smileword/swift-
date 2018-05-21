@@ -2,6 +2,6 @@
 
 import Foundation
 
-var str = "23333"
+var str = "数组"
 
 //: [Next](@next)

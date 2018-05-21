@@ -2,6 +2,6 @@
 
 import Foundation
 
-var str = "Hello, playground"
+var str = "03"
 
 //: [Next](@next)
